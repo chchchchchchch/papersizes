@@ -1,0 +1,46 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-298 -424 448 640">
+ <title>Comparison of ISO 216 paper sizes from A4 to A3 and Swedish extensions SIS 014711</title>
+ <desc>Comparison of ISO 216 paper sizes from A4 to A3 and Swedish extensions SIS 014711 by CMG Lee.</desc>
+ <defs>
+  <g id="main" font-family="sans-serif" font-size="14" text-anchor="start" stroke-width="1" stroke-linejoin="round" stroke-opacity="0.5">
+   <g transform="translate(-297,-420)">
+    <rect transform="scale(1.5)" x="0" y="0" width="297" height="420" stroke="#000000" stroke-width="2" fill="#ffffff"/>
+    <text x="1" y="12" font-weight="bold" fill="#000000">A3: 297 mm (11.7&quot;) &#215; 420 mm (16.5&quot;)</text>
+   </g>
+   <g transform="translate(-284,-402)">
+    <rect transform="scale(1.5)" x="0" y="0" width="284" height="402" stroke="#666666" fill="none"/>
+    <text x="1" y="11" font-style="italic" fill="#666666">H4: 284 mm (11.2&quot;) &#215; 402 mm (15.8&quot;)</text>
+   </g>
+   <g transform="translate(-272,-385)">
+    <rect transform="scale(1.5)" x="0" y="0" width="272" height="385" stroke="#0000ff" fill="none"/>
+    <text x="1" y="11" fill="#0000ff">D4: 272 mm (10.7&quot;) &#215; 385 mm (15.2&quot;)</text>
+   </g>
+   <g transform="translate(-261,-369)">
+    <rect transform="scale(1.5)" x="0" y="0" width="261" height="369" stroke="#009900" fill="none"/>
+    <text x="1" y="11" fill="#009900">G4: 261 mm (10.3&quot;) &#215; 369 mm (14.5&quot;)</text>
+   </g>
+   <g transform="translate(-250,-353)">
+    <rect transform="scale(1.5)" x="0" y="0" width="250" height="353" stroke="#ff0000" stroke-width="2" fill="none"/>
+    <text x="1" y="12" font-weight="bold" fill="#ff0000">B4: 250 mm (9.8&quot;) &#215; 353 mm (13.9&quot;)</text>
+   </g>
+   <g transform="translate(-239,-338)">
+    <rect transform="scale(1.5)" x="0" y="0" width="239" height="338" stroke="#009900" fill="none"/>
+    <text x="1" y="11" fill="#009900">F4: 239 mm (9.4&quot;) &#215; 338 mm (13.3&quot;)</text>
+   </g>
+   <g transform="translate(-229,-324)">
+    <rect transform="scale(1.5)" x="0" y="0" width="229" height="324" stroke="#0000ff" stroke-width="2" fill="none"/>
+    <text x="1" y="12" font-weight="bold" fill="#0000ff">C4: 229 mm (9.0&quot;) &#215; 324 mm (12.8&quot;)</text>
+   </g>
+   <g transform="translate(-219,-310)">
+    <rect transform="scale(1.5)" x="0" y="0" width="219" height="310" stroke="#009900" fill="none"/>
+    <text x="1" y="11" fill="#009900">E4: 219 mm (8.6&quot;) &#215; 310 mm (12.2&quot;)</text>
+   </g>
+   <g transform="translate(-210,-297)">
+    <rect transform="scale(1.5)" x="0" y="0" width="210" height="297" stroke="#000000" stroke-width="2" fill="none"/>
+    <text x="1" y="12" font-weight="bold" fill="#000000">A4: 210 mm (8.3&quot;) &#215; 297 mm (11.7&quot;)</text>
+   </g>
+  </g>
+ </defs>
+ <use xlink:href="#main" />
+</svg>
