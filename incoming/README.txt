@@ -1,5 +1,5 @@
-CC-BY-SA
-========
+CC-BY-SA/GFDL
+=============
 
 A size illustration with letter and legal
 ------------------------------------------
